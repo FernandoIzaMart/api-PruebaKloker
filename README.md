@@ -1,6 +1,7 @@
 # api-PruebaKloker
 
-INSTRUCCIPNES
+# INSTRUCCIPNES
+
 CRUD CON PHP Y JSON
 Crear una base de datos
 Conectar mediante API a dicha conexión
