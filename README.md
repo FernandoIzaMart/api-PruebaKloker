@@ -1,6 +1,6 @@
 # api-PruebaKloker
 
-# INSTRUCCIPNES
+# INSTRUCCIONES
 
 CRUD CON PHP Y JSON
 Crear una base de datos
